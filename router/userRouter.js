@@ -5,7 +5,7 @@ const studentCreate = require("../controller/usercontroller")
 const router=express.Router()
 router.route("/").post(studentCreate)
 
-
+const abc=
 
 
 module.exports=router;
